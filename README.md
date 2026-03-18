@@ -1,20 +1,51 @@
-This project is a Python-based student management system that allows users to:
+# Overview
+The Check My Grade App is a Python-based student management system that allows users to manage students, courses, professors, and grades through a menu-driven interface.
 
-- Manage student records
-- Manage courses and professors
-- Perform search and sorting operations
-- Generate reports
-- Handle login and authentication
+It is designed to demonstrate core programming concepts such as:
+- Object-Oriented Programming (OOP)
+- File handling (CSV)
+- Searching and sorting algorithms
+- Basic authentication system
+- Unit testing and performance measurement
 
-## Features
-- Add, update, and delete students
+# Features
+## Student Management
+- Add, update, and delete student records
 - Search students by ID and name
 - Sort students by email and marks
-- Course and professor management
-- Grade statistics (average, median)
-- User login system
+- Generate reports (by course, professor, or student)
 
-## How to Run
-1. Open a terminal
-2. Run:
-   python checkmygrade_app.py
+## Course Management
+- Add, update, delete courses
+- Search courses by ID
+- Display all courses
+
+## Professor Management
+- Add, update, delete professors
+- Assign professors to courses
+- View professor’s course and students
+
+## Grades & Statistics
+- Display grading scale
+- Calculate average marks for a course
+- Calculate median marks for a course
+
+## Login & Account System
+- Register new users
+- Login with authentication
+
+# How to Run the Application
+- Open terminal or command prompt
+- Navigate to the project folder
+- Run:
+  **python checkmygrade_app.py**
+- Follow the menu options on screen
+
+# Running Unit Tests
+To run tests:
+   **python -m unittest -v test_checkmygrade_app.py**
+
+This will:
+- Run all test cases
+- Display execution time for search and sort operations
+- Change password (encrypted storage)
