@@ -1,0 +1,10 @@
+professor_id,name,email_address,rank,course_id
+P002,Susan Lee,susan@myscsu.edu,Associate Professor,CS101
+P003,Jane Doe,jane@mycus.edu,Associate Professr,CS102
+P004,Mark Lee,mark@mycsu.edu,Assistant Professor,DATA201
+P005,Jennifer Lay,jennifer@mycsu.edu,Senior Professor,DATA202
+P006,Larry Benton,larry@mycsu.edu,Associate Professor,DATA203
+P007,Mary Jane,mary@mycus.edu,Assistant Professr,CS103
+P008,Peter Parker,peter@mycus.edu,Associate Professr,CS104
+P009,Ursula Ping,ursula@mycsu.edu,Senior Professor,DATA200
+P010,Larry,larryhousey@mycsu.edu,Assistant Manager,CS47
