@@ -1,0 +1,8 @@
+course_id,course_name,credits,description
+DATA200,Data Science,3,Provides insight about DS and Python
+DATA201,Data Visualization,3,Provides insights into visualization
+DATA202,Data Warehouse,3,Introduction to Data Warehouse
+CS101,Intro to C,4,Introduction to programming fundamentals
+CS102,Intro to C++,4,Introduction to C++
+CS103,Python Basics,4,Introduction to Python
+MATH50,College Algebra,3,Basic algebra concepts
