@@ -1,4 +1,0 @@
-email_id,password,role
-michael@mycsu.edu,encrypted_here,professor
-admin@mycsu.edu,encrypted_here,admin
-student@mycsu.edu,encrypted_here,student
