@@ -1,7 +1,0 @@
-student_id,first_name,last_name,email_address,course_id,grade,marks
-S006,Sarah,Clark,sarah@mycsu.edu,DATA202,A,93.0
-S004,Laura,Bell,laura@mycsu.edu,DATA201,A,98.0
-S005,John,Carlston,john@mycsu.edu,DATA201,A,95.0
-S003,John,Kim,john@mycsu.edu,DATA202,A,92.0
-S123,Dave Hillston,Clinton,dave@mycsu.edu,DATA200,B,88.0
-S002,Ana,Clooney,ana@mycsu.edu,DATA201,B,89.0
